@@ -1,6 +1,7 @@
 Link to finished codepen: https://codepen.io/baoneal95/pen/xxVxwwN?editors=1000
 
     1. What is Semantic HTML?
+
     Clearly describes the meaning to the browser and developer
 
     2. What is HTML used for? 
